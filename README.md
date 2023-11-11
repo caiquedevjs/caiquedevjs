@@ -57,4 +57,4 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 ![GitHub Caique Stats](https://github-readme-stats.vercel.app/api?username=caiquedevjs&theme=gruvbox)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
