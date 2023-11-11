@@ -60,7 +60,7 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=API-Rest-Livros
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=API-Rest-Livros
 )](https://github.com/caiquedevjs/API-Rest-Livros.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=javascript-basic-studies
 )](https://github.com/caiquedevjs/javascript-basic-studies.git)
