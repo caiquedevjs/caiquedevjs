@@ -62,4 +62,8 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=API-Rest-Livros
 )](https://github.com/caiquedevjs/API-Rest-Livros.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=javascript-basic-studies
+)](https://github.com/caiquedevjs/javascript-basic-studies.git)
+
+
 
