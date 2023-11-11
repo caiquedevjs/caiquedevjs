@@ -38,5 +38,5 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 [![wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571988372142)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-![GitHub Caique Stats](https://github-readme-stats.vercel.app/api?username=caiquedevjs&theme=dracula)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&theme=dracula)
+![GitHub Caique Stats](https://github-readme-stats.vercel.app/api?username=caiquedevjs&theme=gruvbox)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&theme=gruvbox)
