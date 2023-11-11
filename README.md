@@ -62,15 +62,15 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=API-Rest-Livros
 )](https://github.com/caiquedevjs/API-Rest-Livros.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=javascript-basic-studies
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=javascript-basic-studies
 )](https://github.com/caiquedevjs/javascript-basic-studies.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=Form-validation
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Form-validation
 )](https://github.com/caiquedevjs/Form-validation.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=Python-exercise-files
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Python-exercise-files
 )](https://github.com/caiquedevjs/Python-exercise-files.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=display-time-motivational
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=display-time-motivational
 )](https://github.com/caiquedevjs/display-time-motivational.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=Dark-Ligth-Theme-Form
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Dark-Ligth-Theme-Form
 )](https://github.com/caiquedevjs/Dark-Ligth-Theme-Form.git)
 
 
