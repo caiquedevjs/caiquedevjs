@@ -64,6 +64,16 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 )](https://github.com/caiquedevjs/API-Rest-Livros.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=javascript-basic-studies
 )](https://github.com/caiquedevjs/javascript-basic-studies.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=Form-validation
+)](https://github.com/caiquedevjs/Form-validation.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=Python-exercise-files
+)](https://github.com/caiquedevjs/Python-exercise-files.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=display-time-motivational
+)](https://github.com/caiquedevjs/display-time-motivational.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&repo=Dark-Ligth-Theme-Form
+)](https://github.com/caiquedevjs/Dark-Ligth-Theme-Form.git)
+
+
 
 
 
