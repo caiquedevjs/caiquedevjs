@@ -59,5 +59,3 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiquedevjs)](https://github.com/anuraghazra/github-readme-stats)
