@@ -46,15 +46,18 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-###     Social:
+###     Social 🌎:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-menezes-491930214/)
 [![wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571988372142)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiqueznk@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:caiquemenezes1@outlook.com)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-
+### contribution analysis 👨‍💻:
 ![GitHub Caique Stats](https://github-readme-stats.vercel.app/api?username=caiquedevjs&theme=gruvbox)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiquedevjs)](https://github.com/anuraghazra/github-readme-stats)
