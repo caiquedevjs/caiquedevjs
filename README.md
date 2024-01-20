@@ -1,3 +1,9 @@
+![Logo da Minha Empresa](https://ibb.co/bbqRnxG)
+
+
+
+
+
 # aspiring front end developer 🎮 🚀 📚
 • Estudante de Computação pela Universidade Federal da Bahia.
 
