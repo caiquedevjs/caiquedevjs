@@ -1,4 +1,4 @@
-![Logo da Minha Empresa](https://ibb.co/bbqRnxG)
+![Logo da Minha Empresa](https://i.ibb.co/419gxc0/Sem-t-tulo.png)
 
 
 
