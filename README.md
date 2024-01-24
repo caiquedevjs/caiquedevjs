@@ -17,19 +17,19 @@
 Atualmente dedico meus estudos para o front end, onde venho aprimorando minhas 
 skills em:
 
-• Html
+👉 Html
 
-• Css
+👉 Css
 
-• Javascript
+👉 Javascript
 
-• Typescript
+👉 Typescript
 
-• React.js
+👉 React.js
 
-• Node.js 
+👉 Node.js 
 
-• Bootstrap.
+👉 Bootstrap.
 
 Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor web full stack.
 
