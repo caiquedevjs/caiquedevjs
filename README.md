@@ -34,6 +34,7 @@ skills em:
 Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor web full stack.
 
 ### skills 🧩:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
