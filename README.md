@@ -1,4 +1,4 @@
-![me](https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png?width=500&crop=smart&auto=webp&s=5f9625b631e01f88619ea75cea71642dfbd19cef) 
+![me](https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png?width=1080&crop=smart&auto=webp&s=5f9625b631e01f88619ea75cea71642dfbd19cef) 
 
 
 
