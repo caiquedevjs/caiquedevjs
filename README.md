@@ -64,6 +64,10 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 )](https://github.com/caiquedevjs/display-time-motivational.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Dark-Ligth-Theme-Form
 )](https://github.com/caiquedevjs/Dark-Ligth-Theme-Form.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=sistema-cadastros-usuarios-eventos
+)](https://github.com/caiquedevjs/sistema-cadastros-usuarios-eventos.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=sistema-simula-o-fila-pacientes-prioridades
+)](https://github.com/caiquedevjs/sistema-simula-o-fila-pacientes-prioridades.git)
 
 
 
