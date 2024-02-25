@@ -1,4 +1,4 @@
-<img src="https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png" alt="me" width="300"/>
+![me](<img src="https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png" alt="me" width="300"/>)
 
 
 
