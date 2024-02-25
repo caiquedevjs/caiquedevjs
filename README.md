@@ -1,4 +1,5 @@
-![me width=300 height=300](https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png?width=1080&crop=smart&auto=webp&s=5f9625b631e01f88619ea75cea71642dfbd19cef)
+<img src="https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png" alt="me" width="300"/>
+
 
 
 
