@@ -5,17 +5,17 @@
 
 
 # aspiring front end developer 🎮 🚀 
-📚 Estudante de Computação pela Universidade Federal da Bahia.
+📚  Estudante de Computação pela Universidade Federal da Bahia.
 
 
-📚 Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador.
+📚  Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador.
 
 
-👨🏽‍💻 Desenvolvedor front end.
+👨🏽‍💻  Desenvolvedor front end.
 
 
-🔭 Atualmente dedico meus estudos para o front end, onde venho aprimorando minhas 
-skills em:
+🔭  Atualmente dedico meus estudos para o front end, onde venho aprimorando minhas 
+    skills em:
 
 •  Html
 
@@ -54,18 +54,25 @@ Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor w
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=API-Rest-Livros
 )](https://github.com/caiquedevjs/API-Rest-Livros.git)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=javascript-basic-studies
 )](https://github.com/caiquedevjs/javascript-basic-studies.git)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Form-validation
 )](https://github.com/caiquedevjs/Form-validation.git)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Python-exercise-files
 )](https://github.com/caiquedevjs/Python-exercise-files.git)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=display-time-motivational
 )](https://github.com/caiquedevjs/display-time-motivational.git)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Dark-Ligth-Theme-Form
 )](https://github.com/caiquedevjs/Dark-Ligth-Theme-Form.git)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=sistema-cadastros-usuarios-eventos
 )](https://github.com/caiquedevjs/sistema-cadastros-usuarios-eventos.git)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=sistema-simula-o-fila-pacientes-prioridades
 )](https://github.com/caiquedevjs/sistema-simula-o-fila-pacientes-prioridades.git)
 
