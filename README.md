@@ -1,4 +1,4 @@
-![me](https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png)
+[me](https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png)
 
 
 
