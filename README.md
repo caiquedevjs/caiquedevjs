@@ -4,32 +4,32 @@
 
 
 
-# aspiring front end developer 🎮 🚀 📚
-• Estudante de Computação pela Universidade Federal da Bahia.
+# aspiring front end developer 🎮 🚀 
+📚 Estudante de Computação pela Universidade Federal da Bahia.
 
 
-• Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador.
+📚 Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador.
 
 
-• Desenvolvedor front end.
+👨🏽‍💻 Desenvolvedor front end.
 
 
-Atualmente dedico meus estudos para o front end, onde venho aprimorando minhas 
+🔭 Atualmente dedico meus estudos para o front end, onde venho aprimorando minhas 
 skills em:
 
-👉 Html
+•  Html
 
-👉 Css
+•  Css
 
-👉 Javascript
+•  Javascript
 
-👉 Typescript
+•  Typescript
 
-👉 React.js
+•  React.js
 
-👉 Node.js 
+•  Node.js 
 
-👉 Bootstrap.
+•  Bootstrap.
 
 Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor web full stack.
 
