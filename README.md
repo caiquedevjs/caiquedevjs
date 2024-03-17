@@ -1,9 +1,20 @@
-![me](https://preview.redd.it/musashi-miyamoto-from-vagabond-v0-96jjwgomcxua1.png?width=1080&crop=smart&auto=webp&s=5f9625b631e01f88619ea75cea71642dfbd19cef) 
 
 
 
 
 
+document.write("Hi!!! How are you? 😊");
+const WhoAmI = {
+    code: [JavaScript, CSS, ReactJs, C#],
+    softSkills: [Communicative, TimeManagement and Teamwork],
+    loves: [books, cats, codes, games, coffee, k-pop and doramas]
+}
+
+if (you = "Need Developer") {
+    sendMeEmail("contato.cassia.carvalho@gmail.com");
+} else {
+    inviteYou("See my portfolio");
+}
 
 # aspiring front end developer 🎮 🚀 
 📚  Estudante de Computação pela Universidade Federal da Bahia.
