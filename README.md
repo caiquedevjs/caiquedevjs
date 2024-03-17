@@ -1,4 +1,4 @@
-``` 
+``` javascript
  document.write("Hi!!! How are you? 😊");
 const WhoAmI = {
     code: [JavaScript, CSS, ReactJs, C#],
