@@ -49,28 +49,28 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=API-Rest-Livros
-)](https://github.com/caiquedevjs/API-Rest-Livros.git)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=javascript-basic-studies
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=API-Rest-Livros
+)](https://github.com/caiquedevjs/API-Rest-Livros.git)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=javascript-basic-studies
 )](https://github.com/caiquedevjs/javascript-basic-studies.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Form-validation
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Form-validation
 )](https://github.com/caiquedevjs/Form-validation.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Python-exercise-files
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Python-exercise-files
 )](https://github.com/caiquedevjs/Python-exercise-files.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=display-time-motivational
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=display-time-motivational
 )](https://github.com/caiquedevjs/display-time-motivational.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=Dark-Ligth-Theme-Form
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Dark-Ligth-Theme-Form
 )](https://github.com/caiquedevjs/Dark-Ligth-Theme-Form.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=sistema-cadastros-usuarios-eventos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-cadastros-usuarios-eventos
 )](https://github.com/caiquedevjs/sistema-cadastros-usuarios-eventos.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=gruvbox&repo=sistema-simula-o-fila-pacientes-prioridades
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-simula-o-fila-pacientes-prioridades
 )](https://github.com/caiquedevjs/sistema-simula-o-fila-pacientes-prioridades.git)
 
 
