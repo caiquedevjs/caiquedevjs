@@ -51,7 +51,7 @@
 
 
 
-
+<div style="display:flex; justify-content: space-between;">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=API-Rest-Livros
 )](https://github.com/caiquedevjs/API-Rest-Livros.git)  
@@ -76,6 +76,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-simula-o-fila-pacientes-prioridades
 )](https://github.com/caiquedevjs/sistema-simula-o-fila-pacientes-prioridades.git)
+</div>
 
 
 
