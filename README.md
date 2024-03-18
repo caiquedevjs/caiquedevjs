@@ -7,25 +7,25 @@
 <div align="center">
     <img src="https://img.wattpad.com/ccb00dcb8160ab4f91d40733dbef62c3c88d353b/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6653757843334f345043397558673d3d2d3530343630353736332e3134666532336462396134386231616132323839333537343932372e676966" width="400px" />
 
-    ```javascript
-
-
-   
+            ```javascript
         
         
-        document.write("Hi!!!👋🏼 ");
-        const Me = {
-            text: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 ",
-            stack: [JavaScript, Node.Js, React.Js, Express.Js],
-            softSkills: ["Comunicativo","Proativo", "Analitico", "Criativo", "Trabalho em equipe", "resolução de problemas"],
-            hobbies: ["Livros", "Gamer", "Animes", "Series", "Bike", "Mergulho"]
-        }
-
-
-
-    
-         
-```
+           
+                
+                
+                document.write("Hi!!!👋🏼 ");
+                const Me = {
+                    text: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 ",
+                    stack: [JavaScript, Node.Js, React.Js, Express.Js],
+                    softSkills: ["Comunicativo","Proativo", "Analitico", "Criativo", "Trabalho em equipe", "resolução de problemas"],
+                    hobbies: ["Livros", "Gamer", "Animes", "Series", "Bike", "Mergulho"]
+                }
+        
+        
+        
+            
+                 
+        ```
 </div>
 
 
