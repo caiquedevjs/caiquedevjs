@@ -50,10 +50,10 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=API-Rest-Livros
-)](https://github.com/caiquedevjs/API-Rest-Livros.git)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=javascript-basic-studies
+)](https://github.com/caiquedevjs/API-Rest-Livros.git)  
+
+[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=javascript-basic-studies
 )](https://github.com/caiquedevjs/javascript-basic-studies.git)
-
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Form-validation
 )](https://github.com/caiquedevjs/Form-validation.git)
