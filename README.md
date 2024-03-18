@@ -14,8 +14,8 @@
         const Me = {
             text: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 ",
             stack: [JavaScript, Node.Js, React.Js, Express.Js],
-            softSkills: [comunicativo, proativo, analitico, criativo, trabalho em equipe, resolução de problemas],
-            hobbies: [Livros, Gamer, Animes, Series, Bike, Mergulho]
+            softSkills: ["Comunicativo","Proativo", "Analitico", "Criativo", "Trabalho em equipe", "resolução de problemas"],
+            hobbies: ["Livros", "Gamer", "Animes", "Series", "Bike", "Mergulho"]
         }
 
 
