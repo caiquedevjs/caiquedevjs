@@ -1,17 +1,19 @@
 <div>
         
-            document.write("Hi!!! How are you? 😊");
+        ```javascript
+        document.write("Hi!!! How are you? 😊");
         const WhoAmI = {
             code: [JavaScript, CSS, ReactJs, C#],
             softSkills: [Communicative, TimeManagement and Teamwork],
             loves: [books, cats, codes, games, coffee, k-pop and doramas]
         }
-        
+
         if (you = "Need Developer") {
             sendMeEmail("contato.cassia.carvalho@gmail.com");
         } else {
             inviteYou("See my portfolio");
-        }  ``` 
+        }
+
     
 </div>
 
@@ -65,34 +67,30 @@
 </div>
 
 
-
-
-<div style="display:flex; justify-content: space-between;">
-
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=API-Rest-Livros
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=API-Rest-Livros
         )](https://github.com/caiquedevjs/API-Rest-Livros.git)  
         
-        [[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=javascript-basic-studies
+[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=javascript-basic-studies
         )](https://github.com/caiquedevjs/javascript-basic-studies.git)
         
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Form-validation
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Form-validation
         )](https://github.com/caiquedevjs/Form-validation.git)
         
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Python-exercise-files
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Python-exercise-files
         )](https://github.com/caiquedevjs/Python-exercise-files.git)
         
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=display-time-motivational
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=display-time-motivational
         )](https://github.com/caiquedevjs/display-time-motivational.git)
-        
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Dark-Ligth-Theme-Form
+          
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Dark-Ligth-Theme-Form
         )](https://github.com/caiquedevjs/Dark-Ligth-Theme-Form.git)
         
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-cadastros-usuarios-eventos
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-cadastros-usuarios-eventos
         )](https://github.com/caiquedevjs/sistema-cadastros-usuarios-eventos.git)
         
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-simula-o-fila-pacientes-prioridades
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-simula-o-fila-pacientes-prioridades
         )](https://github.com/caiquedevjs/sistema-simula-o-fila-pacientes-prioridades.git)
-</div>
+
 
 
 
