@@ -1,4 +1,7 @@
-```javascript         <div>
+```javascript
+
+
+   <div>
         
         
         document.write("Hi!!! How are you? 😊");
@@ -15,7 +18,8 @@
         }
 
     
-                </div> ```
+         </div>
+```
 
 
 # aspiring front end developer 🎮 🚀 
