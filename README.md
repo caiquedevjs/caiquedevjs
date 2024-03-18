@@ -45,30 +45,6 @@
 </div>
 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=API-Rest-Livros
-        )](https://github.com/caiquedevjs/API-Rest-Livros.git)  
-        
-[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=javascript-basic-studies
-        )](https://github.com/caiquedevjs/javascript-basic-studies.git)
-        
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Form-validation
-        )](https://github.com/caiquedevjs/Form-validation.git)
-        
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Python-exercise-files
-        )](https://github.com/caiquedevjs/Python-exercise-files.git)
-        
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=display-time-motivational
-        )](https://github.com/caiquedevjs/display-time-motivational.git)
-          
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=Dark-Ligth-Theme-Form
-        )](https://github.com/caiquedevjs/Dark-Ligth-Theme-Form.git)
-        
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-cadastros-usuarios-eventos
-        )](https://github.com/caiquedevjs/sistema-cadastros-usuarios-eventos.git)
-        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiquedevjs&theme=tokyonight&repo=sistema-simula-o-fila-pacientes-prioridades
-        )](https://github.com/caiquedevjs/sistema-simula-o-fila-pacientes-prioridades.git)
-
 
 
 
