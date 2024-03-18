@@ -1,11 +1,18 @@
+
+
+
+# aspiring front end developer 🎮 🚀 
+
+
 ```javascript
 
 
-   <div>
+   
         
         
         document.write("Hi!!! How are you? 😊");
         const WhoAmI = {
+            text: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 "
             code: [JavaScript, CSS, ReactJs, C#],
             softSkills: [Communicative, TimeManagement and Teamwork],
             loves: [books, cats, codes, games, coffee, k-pop and doramas]
@@ -18,38 +25,9 @@
         }
 
     
-         </div>
+         
 ```
 
-
-# aspiring front end developer 🎮 🚀 
-📚  Estudante de Computação pela Universidade Federal da Bahia.
-
-
-📚  Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador.
-
-
-👨🏽‍💻  Desenvolvedor front end.
-
-
-🔭  Atualmente dedico meus estudos para o front end, onde venho aprimorando minhas 
-    skills em:
-
-•  Html
-
-•  Css
-
-•  Javascript
-
-•  Typescript
-
-•  React.js
-
-•  Node.js 
-
-•  Bootstrap.
-
-🎯  Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor web full stack.
 
 ### skills 🧩:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,bootstrap,vue,webpack,python,nodejs,jest,linux,netlify,postman)](https://skillicons.dev)
