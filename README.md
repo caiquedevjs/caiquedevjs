@@ -1,4 +1,3 @@
-[![Dashboard](https://camo.githubusercontent.com/c66f24c4b9d42c35de3f1363388065c41e84818d6db8794307e5bfaba342aa68/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5765736c657961726d267468656d653d6461726b)](https://github.com/caiquedevjs)
 
 
 
@@ -45,7 +44,9 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### contribution analysis 👨‍💻:
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquedevjs_icons=true&theme=tokyonight)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
