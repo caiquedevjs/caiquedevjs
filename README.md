@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&hide_progress=true)
+
 
 
 # aspiring front end developer 🎮 🚀 
@@ -44,7 +44,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### contribution analysis 👨‍💻:
-![GitHub Caique Stats](https://github-readme-stats.vercel.app/api?username=caiquedevjs&theme=gruvbox)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Caique Stats](https://github-readme-stats.vercel.app/api?username=caiquedevjs&theme=gruvbox)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=Compact-layoutl&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
