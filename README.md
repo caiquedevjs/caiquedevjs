@@ -1,17 +1,17 @@
 <div>
-``` javascript
-    document.write("Hi!!! How are you? 😊");
-const WhoAmI = {
-    code: [JavaScript, CSS, ReactJs, C#],
-    softSkills: [Communicative, TimeManagement and Teamwork],
-    loves: [books, cats, codes, games, coffee, k-pop and doramas]
-}
-
-if (you = "Need Developer") {
-    sendMeEmail("contato.cassia.carvalho@gmail.com");
-} else {
-    inviteYou("See my portfolio");
-}
+        ``` javascript
+            document.write("Hi!!! How are you? 😊");
+        const WhoAmI = {
+            code: [JavaScript, CSS, ReactJs, C#],
+            softSkills: [Communicative, TimeManagement and Teamwork],
+            loves: [books, cats, codes, games, coffee, k-pop and doramas]
+        }
+        
+        if (you = "Need Developer") {
+            sendMeEmail("contato.cassia.carvalho@gmail.com");
+        } else {
+            inviteYou("See my portfolio");
+        }  ``` 
     
 </div>
 
