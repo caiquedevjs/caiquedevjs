@@ -1,6 +1,6 @@
-<div>
+```javascript         <div>
         
-        ```javascript
+        
         document.write("Hi!!! How are you? 😊");
         const WhoAmI = {
             code: [JavaScript, CSS, ReactJs, C#],
@@ -15,7 +15,7 @@
         }
 
     
-</div>
+                </div>
 
 
 # aspiring front end developer 🎮 🚀 
