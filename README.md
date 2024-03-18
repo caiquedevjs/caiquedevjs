@@ -10,19 +10,15 @@
    
         
         
-        document.write("Hi!!! How are you? 😊");
-        const WhoAmI = {
+        document.write("Hi!!!👋🏼 ");
+        const Me = {
             text: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 "
-            code: [JavaScript, CSS, ReactJs, C#],
+            stack: [JavaScript, Node.Js, React.Js, Express.Js],
             softSkills: [Communicative, TimeManagement and Teamwork],
-            loves: [books, cats, codes, games, coffee, k-pop and doramas]
+            Hobbies: [Livros, Gamer, Animes, Series, Bike, Mergulho]
         }
 
-        if (you = "Need Developer") {
-            sendMeEmail("contato.cassia.carvalho@gmail.com");
-        } else {
-            inviteYou("See my portfolio");
-        }
+
 
     
          
