@@ -12,10 +12,10 @@
         
         document.write("Hi!!!👋🏼 ");
         const Me = {
-            text: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 "
+            text: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 ",
             stack: [JavaScript, Node.Js, React.Js, Express.Js],
             softSkills: [Communicative, TimeManagement and Teamwork],
-            Hobbies: [Livros, Gamer, Animes, Series, Bike, Mergulho]
+            hobbies: [Livros, Gamer, Animes, Series, Bike, Mergulho]
         }
 
 
