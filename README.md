@@ -2,7 +2,7 @@
 
 
 
-# aspiring Full Stack Web developer 🎮 🚀 
+# Aspiring Full Stack Web developer 🎮 🚀 
 
 <p align="center">
     <img src="https://media4.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="500px" />
