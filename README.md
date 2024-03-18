@@ -2,7 +2,7 @@
 
 
 
-# aspiring front end developer 🎮 🚀 
+# aspiring Full Stack Web developer 🎮 🚀 
 
 
 ```javascript
