@@ -1,6 +1,10 @@
 
 
-<center>Full Stack Web developer 🎮 🚀</center>
+
+
+
+<center>  <h1 > Full Stack Web developer 🎮 🚀 </h1>    </center> 
+
 
 
 
