@@ -1,8 +1,7 @@
 
 
-<div style="text-align: center;">
  #  Full Stack Web developer 🎮 🚀 
-</div>
+
 
 
 
