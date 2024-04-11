@@ -1,6 +1,6 @@
 
 
-<center># Full Stack Web developer 🎮 🚀</center>
+<center>Full Stack Web developer 🎮 🚀</center>
 
 
 
