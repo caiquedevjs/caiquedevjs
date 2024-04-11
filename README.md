@@ -1,8 +1,10 @@
 
 
+<div style="text-align: center;">
+ #  Full Stack Web developer 🎮 🚀 
+</div>
 
 
-#                                                  Full Stack Web developer 🎮 🚀 
 
 <p align="center">
     <img src="https://steamuserimages-a.akamaihd.net/ugc/960859808809859311/D31B9B703D93A1769ED66E4F8CDCD1CDCBF00A48/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500px" />
