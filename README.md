@@ -45,7 +45,7 @@
 
 
 ### skills 🧩:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,bootstrap,vue,webpack,python,nodejs,jest,linux,netlify,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,bootstrap,vue,webpack,python,java,nodejs,jest,linux,netlify,postman)](https://skillicons.dev)
 
 
 
