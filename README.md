@@ -60,7 +60,7 @@
 ### contribution analysis 👨‍💻:
 <div style="display:flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=caiquedevjs&show_icons=true&theme=tokyonight" width="400px" />
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=pie&theme=tokyonight"  width="300px"  />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=compact&theme=tokyonight" width="300px" />
 </div>
 
 
