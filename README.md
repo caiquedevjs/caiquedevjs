@@ -3,7 +3,7 @@
 
 
 
-<center>  <h1 > know my path, in the light of knowledge 🚀🎯 </h1>    </center> 
+<center>  <h1 > know my path, in the light of knowledge 🚀 </h1>    </center> 
 
 
 
