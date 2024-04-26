@@ -44,11 +44,11 @@
 
 
 
-### skills 🧩:
-[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css,react,nodejs,npm,express,nestjs,bootstrap,webpack,jest,netlify,postman)](https://skillicons.dev)
+### languages ​​and frameworks 🧩:
+[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css,react,nodejs,npm,express,nestjs,bootstrap,webpack,jest,prisma)](https://skillicons.dev)
 
 ### environments 📦: 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,vscode,idea,eclipse,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,vscode,idea,eclipse,netlify,postman,git,github)](https://skillicons.dev)
 
 
 ###     Social 🌎:
