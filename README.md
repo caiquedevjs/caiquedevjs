@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/960859808809859311/D31B9B703D93A1769ED66E4F8CDCD1CDCBF00A48/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500px" />
+    <img src="https://64.media.tumblr.com/977e2dc15e65c33ad1e8d0c87ed54106/92d75c7d0a5eafc7-aa/s1280x1920/2c0a70f951b227a901a8bb0dd7cf5f858c55e7e8.gifv" width="500px" />
 </p>
 
 
