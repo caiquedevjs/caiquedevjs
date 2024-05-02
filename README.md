@@ -3,7 +3,7 @@
 
 
 
-<center>  <h1 >my back end developer path  🚀 </h1>    </center> 
+
 
 
 
@@ -20,12 +20,12 @@
                     
                        
          
-                            document.write("Hi!!!👋🏼 ");
+                           
                             const Me = {
-                                text: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 ",
-                                stack: [JavaScript, Node.Js, React.Js, Express.Js],
-                                softSkills: ["Comunicativo","Proativo", "Analitico", "Criativo", "Trabalho em equipe", "resolução de problemas"],
-                                hobbies: ["Livros", "Gamer", "Animes", "Series", "Bike", "Mergulho"]
+                                occupation: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 ",
+                                Stack: [JavaScript,Typescript, NodeJs, ReactJs, ExpressJs,NestJs, PrismaIO],
+                                SoftSkills: ["Comunicativo","Proativo", "Analitico", "Criativo", "Trabalho em equipe", "resolução de problemas"],
+                                Hobbies: ["Livros", "Gamer", "Animes", "Series", "Bike", "Mergulho"]
                             }
                     
         
