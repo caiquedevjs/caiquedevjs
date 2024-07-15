@@ -51,6 +51,7 @@
 
 ### environments 📦: 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,vscode,idea,eclipse,netlify,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,netlify,postman,git,github)](https://skillicons.dev)
 
 
 ###     Social 🌎:
