@@ -45,9 +45,11 @@
 
 
 ### languages ​​and frameworks 🧩:
-[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css,react,nodejs,npm)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css)](https://skillicons.dev)  
 
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,bootstrap,webpack,jest,prisma)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm)](https://skillicons.dev)
 
 
 ### environments 📦: 
