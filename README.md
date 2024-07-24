@@ -1,49 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-    <img src="https://64.media.tumblr.com/977e2dc15e65c33ad1e8d0c87ed54106/92d75c7d0a5eafc7-aa/s1280x1920/2c0a70f951b227a901a8bb0dd7cf5f858c55e7e8.gif" width="500px" />
-</p>
-
-
-
- ``` javascript
-                    
-                    
-                       
-         
-                           
-                            const Me = {
-                                occupation: "Estudante de Computação pela Universidade Federal da Bahia e Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador. 📚 ",
-                                Stack: [JavaScript,Typescript, NodeJs, ReactJs, ExpressJs,NestJs, PrismaIO],
-                                SoftSkills: ["Comunicativo","Proativo", "Analitico", "Criativo", "Trabalho em equipe", "resolução de problemas"],
-                                Hobbies: ["Livros", "Gamer", "Animes", "Series", "Bike", "Mergulho"]
-                            }
-                    
-        
-        
-            
-                 
- ```
-
-
-
-
-
-
-
-
-
-
-
 ### languages ​​and frameworks 🧩:
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css)](https://skillicons.dev)  
 
