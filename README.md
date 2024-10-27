@@ -24,6 +24,7 @@
 <div style="display:flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=caiquedevjs&show_icons=true&theme=tokyonight" width="400px" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedevjs&layout=compact&theme=tokyonight" width="300px" height= "170px" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=caiquedevjs1&theme=ocean-dark)](https://git.io/streak-stats)
 </div>
 
 
