@@ -1,4 +1,4 @@
-#Hello :raised_hand_with_fingers_splayed:, welcome to my github :octocat:
+# Hello :raised_hand_with_fingers_splayed:, welcome to my github :octocat:
 ### languages ​​and frameworks 🧩:
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css)](https://skillicons.dev)  
 
