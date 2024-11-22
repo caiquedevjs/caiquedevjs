@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,bootstrap,webpack,jest,prisma)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm,scala)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm,scala,materialui,mongodb,postgres)](https://skillicons.dev)
 
 
 ### environments 📦: 
