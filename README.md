@@ -2,11 +2,13 @@
 ### languages ​​and frameworks 🧩:
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css)](https://skillicons.dev)  
 
-[![My Skills](https://skillicons.dev/icons?i=express,nestjs,bootstrap,webpack,jest,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,bootstrap,webpack,jest)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm,scala,materialui,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm,scala,materialui)](https://skillicons.dev)
 
-
+### Data base and infrastructure ⚙️:
+[![My Skills](https://skillicons.dev/icons?i=,mongodb,postgres,redis,supabase,firebase,prisma)](https://skillicons.dev)
+    
 ### environments 📦: 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,vscode,idea)](https://skillicons.dev)  
 
