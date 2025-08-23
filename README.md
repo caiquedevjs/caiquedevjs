@@ -1,10 +1,11 @@
 # Hello :raised_hand_with_fingers_splayed:, welcome to my github :octocat:
 ### languages ​​and frameworks 🧩:
-[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,html,css)](https://skillicons.dev) 
 
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,bootstrap,webpack,jest)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm,scala,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
 
 ### Data base and infrastructure ⚙️:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase,prisma)](https://skillicons.dev)
