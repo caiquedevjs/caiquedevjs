@@ -11,7 +11,7 @@
 ### Data base and infrastructure ⚙️:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,docker)](https://skillicons.dev)
     
 ### environments 📦: 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,vscode,idea)](https://skillicons.dev)  
